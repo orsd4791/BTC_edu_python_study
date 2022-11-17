@@ -1,4 +1,5 @@
 print("----------▶구구단 시작◀-----------")
+
 while True:
     a = int(input("▶ 단 수 : "))
     if a > 0 and a <= 9 :
