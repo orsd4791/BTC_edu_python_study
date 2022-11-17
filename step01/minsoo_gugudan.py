@@ -14,5 +14,5 @@ while True:
         print('-' * 10)
         continue
     else:
-        print("1-16 사이의 단을 입력하세요 !!!")
+        print("야 말 좀 들어! 1-16 사이의 단을 입력하라고 ! ㅡ.,ㅡ^ !!!\n")
         continue
