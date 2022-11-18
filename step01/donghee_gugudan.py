@@ -11,6 +11,6 @@ while True :
     if num <= 9:
         for set in range(1,10):
             print("{0}*{1}={2}".format(num,set,num*set))
-    if num >= 11:
+    if num >= 10:
         for set in range(1,num+1) :
             print("{0}*{1}={2}".format(num,set,num*set))
