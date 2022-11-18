@@ -9,7 +9,7 @@ if i < 10 :
 elif 9 < i < 17 :
   while(j<=i):
      k = i * j
-     print(i," * ", j, " = ", k)1
+     print(i," * ", j, " = ", k)
      j+=1
 else :
   print(" 숫자 범위를 벗어남")
